@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-body{
+body {
     margin: 0;
 }
 
@@ -8,10 +8,10 @@ table {
     border-spacing: 0;
 }
 
-td{
+td {
     padding: 0;
 }
 
-img{
+img {
     border: 0;
 }
